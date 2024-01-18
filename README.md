@@ -1,6 +1,8 @@
 # CoffeeDemo
 Demo project of a tiny PHP App.
 
+The root of the app is /app/form.coffee.php
+
 This sample is hosted here for convenience to play with the functionaliy: http://coffee-list.eu-west-2.elasticbeanstalk.com/app/form.coffee.php
 
 <b>The problem:</b> Bert and Ernie handle the office drinks orders. Bert is notorious for getting the size of drinks wrong - try a large espresso - and Ernie has no idea what he's doing. Ernie also likes to take the Lattes for himself.
